@@ -6,8 +6,8 @@
 
 <?php
 
-require 'config.php';
-require 'connection.php';
+require '../../resources/config.php';
+require '../../resources/database/connection.php';
 
 DBConnect();
 
